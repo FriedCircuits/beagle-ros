@@ -5,4 +5,4 @@ LIC_FILES_CHKSUM = "file://package.xml;beginline=17;endline=17;md5=d566ef916e9de
 
 DEPENDS = ""
 
-require common_msgs.inc
+require common-msgs.inc
