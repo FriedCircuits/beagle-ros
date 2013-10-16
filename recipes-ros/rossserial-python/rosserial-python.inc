@@ -7,4 +7,4 @@ S = "${WORKDIR}/${ROS_SP}/${ROS_BPN}"
 
 inherit catkin
 
-ROS_SPN = "rosserial-python"
+ROS_SPN = "rosserial_python"
