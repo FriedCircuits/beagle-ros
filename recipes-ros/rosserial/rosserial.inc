@@ -1,6 +1,6 @@
 SRC_URI = "https://github.com/ros-drivers/rosserial/archive/hydro-devel.tar.gz"
-SRC_URI[md5sum] = "0a6191b2c5ecf9de527a9365299c59b2"
-SRC_URI[sha256sum] = "b00fa3871f204e300dcd16a8847f3a81d64f57bb2ae96b3f3c41f77945e923be"
+SRC_URI[md5sum] = "0b49402c54f7b4a13b373735ebf66f29"
+SRC_URI[sha256sum] = "18d6e1de8fecd6317766a6b52cf6fb781d8572ca8ddafcbddb705f3e095d025a"
 
 
 S = "${WORKDIR}/${ROS_SP}/${ROS_BPN}"
