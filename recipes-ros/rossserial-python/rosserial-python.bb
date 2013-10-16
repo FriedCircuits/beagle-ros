@@ -5,9 +5,4 @@ LIC_FILES_CHKSUM = "file://package.xml;beginline=9;endline=9;md5=d566ef916e9dedc
 
 DEPENDS = ""
 
-SRC_URI = "git://github.com/FriedCircuits/rosserial-python.git"
-SRCREV = "${AUTOREV}"
-
-S = "${WORKDIR}/git"
-
-inherit catkin
+require rosserial-python.inc
