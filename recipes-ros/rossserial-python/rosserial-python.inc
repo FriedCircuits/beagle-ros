@@ -8,3 +8,4 @@ S = "${WORKDIR}/${ROS_SP}/${ROS_BPN}"
 inherit catkin
 
 ROS_SPN = "rosserial"
+PV = "0.5.3"
